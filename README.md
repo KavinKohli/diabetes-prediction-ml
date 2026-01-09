@@ -43,7 +43,8 @@ The dataset contains medical records of patients with the following features:
 - Logistic Regression  
 - K-Nearest Neighbors (KNN)  
 - Random Forest  
-- Decision Tree  
+- Decision Tree
+- Support Vector Classifier (SVC)
 
 The best performing model is selected based on accuracy and evaluation metrics.
 
